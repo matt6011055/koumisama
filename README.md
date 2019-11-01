@@ -14,4 +14,4 @@ hahaha
 x = y + 3
 ```
 :---:|:---:|:---:
-|hahaha|hehehe|hihihi|
+hahaha|hehehe|hihihi
