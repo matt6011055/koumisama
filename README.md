@@ -13,5 +13,6 @@ hahaha
 ```c
 x = y + 3
 ```
+r|r|r
 :---:|:---:|:---:
 hahaha|hehehe|hihihi
